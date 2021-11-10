@@ -100,7 +100,7 @@
 // let value
 // console.log(!!value)
 
-// Ternário
+
 let value = 10
 let numero = 9
 console.log(value > numero ? 'tmj' : 'nao tmj')
